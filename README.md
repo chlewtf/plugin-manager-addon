@@ -11,7 +11,7 @@ A modern addon for Pterodactyl Panel and Jexactyl Panel that enables server admi
 
 ## Installation
 
-Check [INSTALL.md](INSTALL.MD) for installation.
+Check [INSTALL.md](INSTALL.md) for installation.
 
 ## API Endpoints
 
